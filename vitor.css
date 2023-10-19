@@ -1,14 +1,14 @@
 h1 {
-    color: hotpink;
+    color: red;
 }
 h2{
-    color: hotpink;
+    color: red;
 }
 h3{
-    color: hotpink;
+    color: red;
 }
 h4 {
-    color: hotpink;
+    color: red;
 }
 
 body {
@@ -27,7 +27,7 @@ body {
 
 }
 .brilho {
-   color: deeppink;
+   color: deepred;
     font-style: italic
 }
 .lista {
