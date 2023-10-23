@@ -4,7 +4,7 @@ nav a{
     font-weight: 300;
     font-size: 100%;
     text-decoration: none ;
-    border-color: red;
+    border-color: white;
     border-width: 10px;
     border-style: solid;
 }
@@ -19,7 +19,7 @@ nav a{
   vertical-align: top;
   margin: 0 1.5%;
   padding: 30px 20px;
-  border-color: red;
+  border-color: white;
   border-width: 30px;
   border-style: solid;
   backgound-color: red;
